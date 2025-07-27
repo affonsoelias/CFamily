@@ -15,15 +15,12 @@ CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gast
 - ✅ Cálculo da **renda per capita**
 - ✅ Tema claro e escuro com botão de alternância
 - ✅ Tema preferido salvo localmente (persistência)
-<<<<<<< HEAD
+
 
 ## Executáveis
 
 Os arquivos executáveis gerados pelo aplicativo estão localizados na pasta `bin/`.
 
-
-=======
->>>>>>> 7ec43e221b5e0bd8a474ac9ce0ff5ff4154d3c90
 
 ## Executáveis
 
