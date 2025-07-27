@@ -16,5 +16,7 @@ CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gast
 - ✅ Tema claro e escuro com botão de alternância
 - ✅ Tema preferido salvo localmente (persistência)
 
-## Executável na pasta BIN
+## Executáveis
+
+Os arquivos executáveis gerados pelo aplicativo estão localizados na pasta `bin/`.
   
