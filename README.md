@@ -15,9 +15,6 @@ CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gast
 - ✅ Cálculo da **renda per capita**
 - ✅ Tema claro e escuro com botão de alternância
 - ✅ Tema preferido salvo localmente (persistência)
-- ✅ Compatível com **Windows** e **Android**
 
-
-
-
-
+## Executável na pasta BIN
+  
