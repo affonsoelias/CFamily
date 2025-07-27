@@ -22,7 +22,4 @@ CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gast
 Os arquivos executáveis gerados pelo aplicativo estão localizados na pasta `bin/`.
 
 
-## Executáveis
-
-Os arquivos executáveis gerados pelo aplicativo estão localizados na pasta `bin/`.
   
