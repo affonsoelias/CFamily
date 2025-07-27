@@ -2,7 +2,7 @@
 
 CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gastos mensais** e a **renda per capita**.
 
-![CFamily Logo](assets/icon/cfamily_icon.png)
+<img width="1704" height="1059" alt="image" src="https://github.com/user-attachments/assets/429721aa-4c57-485b-a7fd-80fa3b0acd2e" />
 
 ---
 
