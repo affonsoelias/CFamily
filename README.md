@@ -1,16 +1,23 @@
-# cfamily
+# CFamily
 
-A new Flutter project.
+CFamily é um aplicativo multiplataforma para calcular a **renda total**, **gastos mensais** e a **renda per capita**.
 
-## Getting Started
+![CFamily Logo](assets/icon/cfamily_icon.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Cadastro de membros da família
+- ✅ Adição de rendas por membro
+- ✅ Adição de gastos (energia, água, gás, alimentação, transporte, aluguel e medicamentos)
+- ✅ Cálculo automático da diferença entre renda e gastos
+- ✅ Cálculo da **renda per capita**
+- ✅ Tema claro e escuro com botão de alternância
+- ✅ Tema preferido salvo localmente (persistência)
+- ✅ Compatível com **Windows** e **Android**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
